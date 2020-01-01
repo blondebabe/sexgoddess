@@ -1,0 +1,8 @@
+name: CI
+
+off: [push]
+
+
+    steps:
+        echo Add other actions to build,
+        echo test, and deploy your project.
